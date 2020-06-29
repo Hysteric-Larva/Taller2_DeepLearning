@@ -11,7 +11,9 @@
 
 ## Respecto a la parte 2 del taller:
 
-- Se transformó el grafo en un arreglo de 2 dimensiones tal que los espacios vacios (de haber) se rellenan con ceros. Este consiste en $$\(\textit{Total de datos}\cdot \sum \textit{Largo de cada grafo},6)\ $$
+- Se transformó el grafo en un arreglo de 2 dimensiones tal que los espacios vacios (de haber) se rellenan con ceros. Este consiste en 
+
+$$\(\textit{Total de datos}\cdot \sum \textit{Largo de cada grafo},6\) $$
 
 - En el Dataframe df_relations se hace distinción entre Padre e hijo en cuanto a jerarquia del grafo. Es por ello que se antepone una letra P o C (correspondiente a pade e hijo respectivamente), para identificar las siguientes caracteristicas 'uid': 
 
