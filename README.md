@@ -15,7 +15,7 @@
 
 <img src="https://render.githubusercontent.com/render/math?math= A\cdot \sum_{i=1}^{i=n} B_{i},6\)">
 
-Donde A corresponde al total de grafos que se tiene y $B_{i} El largo del grafo i$
+Donde A corresponde al total de grafos que se tiene y <img src="https://render.githubusercontent.com/render/math?math=B_{i}">El largo del grafo i
  
 - En el Dataframe df_relations se hace distinción entre Padre e hijo en cuanto a jerarquia del grafo. Es por ello que se antepone una letra P o C (correspondiente a pade e hijo respectivamente), para identificar las siguientes caracteristicas 'uid': 
 
