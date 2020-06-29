@@ -13,8 +13,10 @@
 
 - Se transformó el grafo en un arreglo de 2 dimensiones tal que los espacios vacios (de haber) se rellenan con ceros. Este consiste en 
 
-<img src="https://render.githubusercontent.com/render/math?math=\(N^{°}\quad Total\quad de\quad grafos}\cdot \sum \textit{Largo\quad de\quad cada\quad grafo},6\)">
+<img src="https://render.githubusercontent.com/render/math?math= A\cdot \sum_{i=1}^{i=n} B_{i},6\)">
 
+Donde A corresponde al total de grafos que se tiene y $B_{i} El largo del grafo i$
+ 
 - En el Dataframe df_relations se hace distinción entre Padre e hijo en cuanto a jerarquia del grafo. Es por ello que se antepone una letra P o C (correspondiente a pade e hijo respectivamente), para identificar las siguientes caracteristicas 'uid': 
 
 - Identificador único del usuario en la bse de datos de twitter.
