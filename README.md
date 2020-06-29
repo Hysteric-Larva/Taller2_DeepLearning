@@ -13,7 +13,7 @@
 
 - Se transformó el grafo en un arreglo de 2 dimensiones tal que los espacios vacios (de haber) se rellenan con ceros. Este consiste en 
 <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
-<img src="https://render.githubusercontent.com/render/math?math=\(A\cdot \sum_{i=1}^{i=n} B_{i},6\)">
+<img src="https://render.githubusercontent.com/render/math?math=(A\cdot \sum_{i=1}^{i=n} B_{i},6)">
 
 Donde A corresponde al total de grafos que se tiene y <img src="https://render.githubusercontent.com/render/math?math=B_{i}"> El largo del grafo i
  
