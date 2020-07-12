@@ -31,4 +31,4 @@ Donde A corresponde al total de grafos que se tiene y <img src="https://render.g
 Note que no se pierde la estructura y de requerirse una limpieza de datos para mejorar la pureza habria que filtrar con pandas aquellos valores de id que sean 0 nomas.
 
 - [Modelo NLP (Base)](https://colab.research.google.com/drive/1xKDPHg7ek-WPPgZfkMXvP3Y_gcH3FKI_?usp=sharing)
--[Modelo NLP (NNLM)](https://colab.research.google.com/drive/1ynhsfazGUgSVk2lbTsGg6qqkPBMy8cxM?usp=sharing)
+- [Modelo NLP (NNLM)](https://colab.research.google.com/drive/1ynhsfazGUgSVk2lbTsGg6qqkPBMy8cxM?usp=sharing)
