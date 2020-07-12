@@ -7,9 +7,14 @@
 - [Lo básico sobre optimizadores](https://medium.com/datadriveninvestor/overview-of-different-optimizers-for-neural-networks-e0ed119440c3)
 - [Algunos optimizadores](https://medium.com/@sdoshi579/optimizers-for-training-neural-network-59450d71caf6)
 - [Comparativa optimizadores](https://heartbeat.fritz.ai/an-empirical-comparison-of-optimizers-for-machine-learning-models-b86f29957050)
-
+- [Notebook parte 1](https://colab.research.google.com/drive/1OiFikxiTOVNsf67OYnEhbfww4IcO79MY?usp=sharing)
 
 ## Respecto a la parte 2 del taller:
+
+- [Modelo del Grafo](https://colab.research.google.com/drive/1MMBkT47tnMajMU2YflPXk16_x6mX-Tzk?usp=sharing)
+- [Modelo Transformado](https://www.kaggle.com/ericzepeda/taller-2)
+
+
 
 - Se transformó el grafo en un arreglo de 2 dimensiones tal que los espacios vacios (de haber) se rellenan con ceros. Este consiste en 
 
@@ -24,3 +29,6 @@ Donde A corresponde al total de grafos que se tiene y <img src="https://render.g
 - 'post time delay (in minutes)': Tiempo transcurrido del twitter en minutos
 
 Note que no se pierde la estructura y de requerirse una limpieza de datos para mejorar la pureza habria que filtrar con pandas aquellos valores de id que sean 0 nomas.
+
+- [Modelo NLP (Base)](https://colab.research.google.com/drive/1xKDPHg7ek-WPPgZfkMXvP3Y_gcH3FKI_?usp=sharing)
+-[Modelo NLP (NNLM)](https://colab.research.google.com/drive/1ynhsfazGUgSVk2lbTsGg6qqkPBMy8cxM?usp=sharing)
