@@ -15,9 +15,15 @@
 - [Lo básico sobre optimizadores](https://medium.com/datadriveninvestor/overview-of-different-optimizers-for-neural-networks-e0ed119440c3)
 - [Algunos optimizadores](https://medium.com/@sdoshi579/optimizers-for-training-neural-network-59450d71caf6)
 - [Comparativa optimizadores](https://heartbeat.fritz.ai/an-empirical-comparison-of-optimizers-for-machine-learning-models-b86f29957050)
-- [Notebook parte 1](https://colab.research.google.com/drive/1OiFikxiTOVNsf67OYnEhbfww4IcO79MY?usp=sharing)
+
+## Parte 1 del taller:
+Tema 8. Los optimizadores más populares en deep learning (AdaGrad, RMSProp, Adam y Nadam) funcionan mejor que un simple SGD porque evitan que la red caiga en óptimos locales con alto error de predicción.
+
+- [Notebook parte 1 (Resolución empirica)](https://colab.research.google.com/drive/1OiFikxiTOVNsf67OYnEhbfww4IcO79MY?usp=sharing)
+
 
 ## Respecto a la parte 2 del taller:
+Se debe realizar un detector de Fake news. Para esto trataremos el problema como uno de clasificación, pero con la dificultad de que la data esta representada como grafos de propagación de cada mensaje.
 
 - [Modelo del Grafo](https://colab.research.google.com/drive/1MMBkT47tnMajMU2YflPXk16_x6mX-Tzk?usp=sharing)
 - [Modelo Transformado](https://www.kaggle.com/ericzepeda/taller-2)
