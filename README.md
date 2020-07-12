@@ -2,11 +2,11 @@
 - Equipo MateNeuronas
 - Integrantes:
 
-Andres Riveros
+  Andres Riveros
 
-Joaquín Silva
+  Joaquín Silva
 
-Eric Zepeda
+  Eric Zepeda
 
 
 
