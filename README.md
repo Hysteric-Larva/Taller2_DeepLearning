@@ -1,4 +1,12 @@
 # Taller 2 de Introducción a Redes neuronales.
+- Equipo MateNeuronas
+- Integrantes:
+
+Andres Riveros
+
+Joaquín Silva
+
+Eric Zepeda
 
 
 
